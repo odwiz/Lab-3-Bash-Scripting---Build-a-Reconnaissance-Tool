@@ -10,11 +10,11 @@ This laboratory showcases how I was be able to create and execute a Bash script,
 
 ## Tools and Resources Used
 The tools and resources used during this lab are:
-    o	Kali LinuxLinux operating system (Kali Linux)
-    o	Metasploitable 2
-    o	nmap
-    o	whatweb
-    o	DIRB
+    o	Kali LinuxLinux operating system (Kali Linux)\
+    o	Metasploitable 2\
+    o	nmap\
+    o	whatweb\
+    o	DIRB\
     o	Terminal access
 
 ## Conclusion
